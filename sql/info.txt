@@ -1,0 +1,4 @@
+La carpeta "sql" es utilizada para almacenar archivos .sql que contengan procedimientos, consultas,
+o cualquier otro tipo de instrucción SQL necesaria para trabajar con el stio. El uso de esta carpeta
+no influye en el funcionamiento del framework, ya que solo es utilizada para almacenar información
+de manera organizada.
